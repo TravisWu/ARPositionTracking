@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AABC5C99-1DD9-9E40-14BD-5EC69BB26D11}") = "NewMarkerTracking", "Assembly-CSharp.csproj", "{2F818021-2CD1-F706-C91B-F957ABEB7E4C}"
+EndProject
+Project("{AABC5C99-1DD9-9E40-14BD-5EC69BB26D11}") = "NewMarkerTracking", "Assembly-CSharp-Editor.csproj", "{C4AA70C6-05E9-6E3F-9309-E45FA4F57E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F818021-2CD1-F706-C91B-F957ABEB7E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F818021-2CD1-F706-C91B-F957ABEB7E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F818021-2CD1-F706-C91B-F957ABEB7E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F818021-2CD1-F706-C91B-F957ABEB7E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AA70C6-05E9-6E3F-9309-E45FA4F57E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AA70C6-05E9-6E3F-9309-E45FA4F57E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AA70C6-05E9-6E3F-9309-E45FA4F57E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AA70C6-05E9-6E3F-9309-E45FA4F57E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
